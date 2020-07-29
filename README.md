@@ -1,4 +1,4 @@
-### 👨🏼‍💻 [DexterHo(HeZhiZheng)](https://hzz.cool)
+### 👨🏼‍💻 [Dexter Ho(HeZhiZheng)](https://hzz.cool)
 
 👋 Hi, I'm Dexter Ho(HeZhiZheng),a passionate self-taught backend developer from China. <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20>
 
