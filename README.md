@@ -10,7 +10,7 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** PHP, Go, JavaScript
--  **Hobbies :** Travel: 🧳 🇨🇳  &  Music: 🎵 Cantopop   & :loudspeaker: Cantonese 
+-  **Hobbies :** Travel: 🧳 <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20><img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1ed-1f1f0.png" width=20 height=20>  &  Music: 🎵 Cantopop   & :loudspeaker: Cantonese 
 -  **Contact me :** 
 <a href="https://twitter.com/he_zhizheng" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://www.instagram.com/dexter_ho_cn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
