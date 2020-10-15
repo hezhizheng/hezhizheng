@@ -11,10 +11,10 @@
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
 -  **Languages :** PHP, Go, JavaScript
 -  **Hobbies :** <a href="https://hzz.cool/travel-map" target="_blank"> Travel: 🧳 </a> &  Music: 🎵 Cantopop   & language: :loudspeaker:  Cantonese 
--  **Contact me :** <a href="https://twitter.com/he_zhizheng" target="_blank"><img src="http://note.youdao.com/yws/public/resource/c07f1b7460e0e29418d043c1aac1c13c/xmlnote/3B423583F24D467699E0A3AC2A84B866/10382" alt="Twitter" width="25px"></a>
-<a href="https://www.facebook.com/hezhizheng1026/" target="_blank"><img src="http://note.youdao.com/yws/public/resource/c07f1b7460e0e29418d043c1aac1c13c/xmlnote/F5A680DD347141C1A9EFC79FC5C2C12F/10390" alt="Facebook" width="25px"></a>
-<a href="https://www.instagram.com/dexter_ho_cn/" target="_blank"><img src="http://note.youdao.com/yws/public/resource/c07f1b7460e0e29418d043c1aac1c13c/xmlnote/9EBE09358C124E1496BE26413A3C2026/10367" alt="Instagram" width="25px"></a>
-<a href="http://weibo.com/u/5675317400" target="_blank"><img src="http://note.youdao.com/yws/public/resource/c07f1b7460e0e29418d043c1aac1c13c/xmlnote/5D61175CBED345008816E2E7FA515F24/10393" alt="Weibo" width="25px"></a>
+-  **Contact me :** <a href="https://twitter.com/he_zhizheng" target="_blank"><img src="http://note.youdao.com/yws/public/resource/c07f1b7460e0e29418d043c1aac1c13c/xmlnote/3B423583F24D467699E0A3AC2A84B866/10382" alt="Twitter" width="18px"></a>
+<a href="https://www.facebook.com/hezhizheng1026/" target="_blank"><img src="http://note.youdao.com/yws/public/resource/c07f1b7460e0e29418d043c1aac1c13c/xmlnote/F5A680DD347141C1A9EFC79FC5C2C12F/10390" alt="Facebook" width="18px"></a>
+<a href="https://www.instagram.com/dexter_ho_cn/" target="_blank"><img src="http://note.youdao.com/yws/public/resource/c07f1b7460e0e29418d043c1aac1c13c/xmlnote/9EBE09358C124E1496BE26413A3C2026/10367" alt="Instagram" width="18px"></a>
+<a href="http://weibo.com/u/5675317400" target="_blank"><img src="http://note.youdao.com/yws/public/resource/c07f1b7460e0e29418d043c1aac1c13c/xmlnote/5D61175CBED345008816E2E7FA515F24/10393" alt="Weibo" width="18px"></a>
 
 ### Languages and Tools
 
