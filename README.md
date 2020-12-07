@@ -1,6 +1,6 @@
 ### 👨🏼‍💻 [Dexter Ho(HeZhiZheng)](https://hzz.cool)
 
-👋 Hi, I'm Dexter Ho(HeZhiZheng),a passionate self-taught backend developer from China. <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20>
+👋 Hi, I'm Dexter Ho(HeZhiZheng),a backend developer from China. <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f1e8-1f1f3.png" width=20 height=20>
 
 [![DexterHo's github stats](https://github-readme-stats.vercel.app/api?username=hezhizheng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/hezhizheng)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
