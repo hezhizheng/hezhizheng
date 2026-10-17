@@ -1,4 +1,4 @@
-### 👨🏼‍💻 [Dexter Ho(ZhiZheng He)](https://hzz.cool)
+### 👨🏼‍💻 [Dexter Ho(ZhiZheng He)](https://hzzio.top)
 
 👋 Hi, I'm Dexter Ho(ZhiZheng He),a backend developer from China.
 
