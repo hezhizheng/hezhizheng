@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Dexter Ho(ZhiZheng He),a backend developer from China.
 
-[![DexterHo's github stats](https://ghstats.dev/api/card?username=hezhizheng&theme=midnight&hide=week%2Ctrend%2Cavg%2Cactive_day%2Cissues%2Chours%2Cstreak)](https://github.com/hezhizheng)
+[![DexterHo's github stats](https://ghstats.dev/api/card?username=hezhizheng&theme=midnight&hide=week,trend,avg,active_day,issues,hours,streak,prs)](https://github.com/hezhizheng)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
